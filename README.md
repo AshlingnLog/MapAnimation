@@ -1,4 +1,3 @@
-README
 README file with:
 
 Title of the project: Real Time Bus Tracker: Chicago Trains from Lake Bluff
