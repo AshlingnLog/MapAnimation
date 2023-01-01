@@ -8,4 +8,6 @@ MIT XPro Course Assignment
 [styles.css](styles.css)
 
 ## Setup
-- To run the code, simply open **index.html** in a web browser.
+- To run the code, open index.html in a web browser.
+
+## In the future, I would like to add a map for Chicago and sync public transport the api into that map.
